@@ -1,0 +1,7 @@
+LOCAL
+un repositorio local es aquel que registra
+los cambios de la computadora del desarrollador,
+no es ideal debido a que dependemos exclusivamente 
+de dicho equipo y en caso de daño o algun otro
+problema, perderiamos la informacion almacenada.
+
