@@ -1,0 +1,11 @@
+CENTRALIZADO:
+Un repositorio centralizado es aquel que esta
+basado en el uso de un servidor, como en el caso de subversion.
+Una de las desventajas que tiene esta forma de trabajar
+es que solamente se
+actualizan los cambios si estamos conectados al
+mismo y en caso de conflicto, se considera como verdadera 
+la informacion almacenada en el mismo.
+La ventaja es que podemos acceder a la informacion 
+desde cualquier lado siempre y cuando tengamos acceso 
+al servidor.
