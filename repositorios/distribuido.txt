@@ -1,0 +1,13 @@
+DISTRIBUIDO:
+Un repositorio distribuido, es aquel que se
+encuentra clonado de manera local en los
+equipos de los colaboradores, asi como tambien 
+posee copias del mismo en otros repositorios
+remotos. La idea principal de este concepto
+es no depender de una unica copia, sino que
+al estar distribuida la informacion de manera
+sincronizada, podamos acceder a cualquier
+repositorio y cada usuario tenga su propia copia,
+a la vez que cada una se considera como verdadera.
+ 
+
