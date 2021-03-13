@@ -10,3 +10,14 @@ NOTA: Esta es el area que va a tener en cuenta git
 a la hora de agregar o registrar los archivos
 a los que querramos hacerles seguimiento.
  
+COMANDOS BASICOS:
+cd : check directory (abre un directorio)
+cd .. : abre el directorio anterior
+cd<dir> : abre el directorio indicado
+mkdir <folder> : crea una carpeta
+rmdir <folder> : elimina una carpeta
+GIT:
+git init   :  inicializa un repositorio de git
+git status :  compara el working directory con nuestro index
+rm -rf .git: elimina el repositorio de git
+
