@@ -15,3 +15,19 @@ ademas de la fecha y hora para generarlo.
 Los commits solamente apuntan a sus ancestros,
 ya que git funciona como un grafo dirigido 
 aciclico.
+
+GIT:
+git commit: abre el editor para registrar los cambios
+git commit -m: crea un commit con mensaje
+git commit -a: agrega al index los cambios antes de abrir el editor
+git commit -am<msg>: agrega los cambios al idex y emite un commit con mensaje
+git commit --amend Edita el ultimo commit, para corregirlo
+git diff<ref> compara la cabecera actual con la referencia especificada
+git diff <ref> -- <file>: compara un solo archivo entre referencias
+
+REF:
+HEAD: cabecera actual (usted esta aqui)
+<branch>: RAMA ultimo commit apuntado
+<ancestor>: cabecera anterior =>HEAD~Nº(COMMITS ANTERIORES) HEAD^(PADRE)
+<commit>: Cabecera especifica( hash abc123)
+
