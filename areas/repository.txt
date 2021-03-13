@@ -1,0 +1,17 @@
+REPOSITORY: (Almacen/registro de cambios)
+
+Area que al igual que el index tambien se
+encuentra en el directorio .git y su funcion
+principal es guardar las capturas (snapshots)
+en formato de objetos (BLOB) para luego, en 
+caso de que sea necesario, utilizarlas como
+referencia para reestablecer nuestro proyecto
+a un punto de control especificado.
+
+NOTA: Los objetos se guardan con un numero 
+de HASH que se calcula al momento de realizar el
+commit, utilizando el mensaje, usuario, correo
+ademas de la fecha y hora para generarlo.
+Los commits solamente apuntan a sus ancestros,
+ya que git funciona como un grafo dirigido 
+aciclico.
