@@ -1,0 +1,10 @@
+REMOTO:
+Corresponde a un repositorio que se encuentra
+en otro equipo/servidor. Existen sitios como
+GitHub.com, gitLab.com o BitBucket.com que
+estan diseñados para el almacen de datos,
+especificamente hablando, repositorios de proyectos.
+Se pueden publicar de manera privada, para que
+accedan solamente colaboradores o de manera 
+publica para que cualquier persona pueda "clonar"
+o hacer un "fork" de nuestro repositorio.
