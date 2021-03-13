@@ -1,0 +1,13 @@
+STAGING AREA  - INDEX: (Area de control de cambios)
+
+Area que forma parte del directorio .git
+la funcion principal de la misma es realizar
+las capturas (snapshots) de nuestro codigo
+a la hora de hacer seguimiento de los archivos.
+
+NOTA: Existen diferentes estados para los
+archivos dentro de nuestro WORKING DIRECTORY,
+segun como esten identificados en el INDEX.
+       UNTRACKED: No se hace seguimiento.(ignorado)
+       TRACKED:Se esta haciendo seguimiento(agregado)
+       COMMITED: Se encuentra en el repositorio.(registrado)
