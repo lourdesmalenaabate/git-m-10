@@ -11,3 +11,18 @@ segun como esten identificados en el INDEX.
        UNTRACKED: No se hace seguimiento.(ignorado)
        TRACKED:Se esta haciendo seguimiento(agregado)
        COMMITED: Se encuentra en el repositorio.(registrado)
+       MODIFIED: se detecto un cambio no almacenado.
+         
+
+GIT: 
+git add: agrega archivos al index
+git add*.ext: agrega todos los archivos con el formato
+especificado
+git add folder/: agrega todo el contenido de una carpeta
+git add.: agrega todos los cambios del directorio actual
+git status
+git add*node
+git restore <file> : remueve archivos del index y no hace seguimiento
+gir rm --catched <file>: remueve un archivo del index manteniendo su estado.
+git rm <file>: elimina un archivo del index y el working directory
+
