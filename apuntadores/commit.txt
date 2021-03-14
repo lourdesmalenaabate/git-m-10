@@ -1,0 +1,11 @@
+COMMIT (Cometer/registrar)
+Es un objeto que se almacena en la carpeta .git 
+y que registra los cambios realizados
+en un archivo, asi como tambien
+la creacion de los mismos en formato binario
+se guardan con nombre en formato hexadecimal
+y siempre apunta a un commit anterior.
+
+NOTA: para empezar a registrar los cambios
+es necesario emitir por lo menos 1 commit
+que marque el puntapie inicial del historial.
