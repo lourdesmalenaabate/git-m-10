@@ -1,0 +1,13 @@
+BRANCH (rama)
+Es un apuntador dinamico que identifica
+el ultimo commit de nuestro historial.
+por defecto cuando iniciamos un repositorio
+se crea una rama con el nombre main/master
+y a medida que vayamos emitiendo commits
+este apuntador se va a mover hacia adelante.
+
+NOTA: Son necesarias para manipular el historial
+ya que los commits siempre apuntan a sus ancestros 
+y no es posible ir hacia adelante si retrocedemos
+en el historial de cambios.
+

@@ -1,0 +1,7 @@
+## archivos sin seguimiento
+*.temp
+*.tmp
+
+##carpetas sin seguimiento
+logs/
+node_modules/
